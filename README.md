@@ -69,7 +69,12 @@ This project was developed as a university-level educational project to demonstr
 - ADC usage  
 - DC motor speed control  
 - Motor direction control  
-- Microcontroller and driver IC interfacing  
+- Microcontroller and driver IC interfacing
+
+&nbsp;
+
+## 📄 License
+This project is open-source and available under the MIT License.
 
 &nbsp;
 
